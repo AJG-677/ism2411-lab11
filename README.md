@@ -1,2 +1,11 @@
-# ism2411-lab11
-Customer Dictionary &amp; Lookup — ISM2411 Lab 11
+# ISM2411 Lab 11 — Customer Dictionary & Lookup
+
+**Name:** Asher Gottlieb
+
+## How to Run
+
+From this folder:
+
+```
+python3 customers.py
+```
